@@ -11,10 +11,12 @@ specifiers:
   eslint-plugin-vue: ^8.0.3
   vue: ^2.6.14
   vue-template-compiler: ^2.6.14
+  vuetify: 2.6.6
 
 dependencies:
   core-js: 3.23.1
   vue: 2.6.14
+  vuetify: 2.6.6_vue@2.6.14
 
 devDependencies:
   '@babel/core': 7.18.5
@@ -6123,6 +6125,14 @@ packages:
 
   /vue/2.6.14:
     resolution: {integrity: sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==}
+    dev: false
+
+  /vuetify/2.6.6_vue@2.6.14:
+    resolution: {integrity: sha512-H4KtxDFmDN8QiTRiGfBySyjMhVaHAJTKB0llGGKZT5jKxtnx9gvEtMWXKtVuRP0NJJP0H6xBPJHNOH7nT18qiQ==}
+    peerDependencies:
+      vue: ^2.6.4
+    dependencies:
+      vue: 2.6.14
     dev: false
 
   /watchpack/2.4.0:
