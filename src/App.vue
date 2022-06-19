@@ -38,19 +38,19 @@
     </v-app-bar>
 
     <v-main>
-      <HelloWorld/>
+      <MyMasonry/>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
+import MyMasonry from './components/MyMasonry.vue';
 
 export default {
   name: 'App',
 
   components: {
-    HelloWorld,
+    MyMasonry,
   },
 
   data: () => ({
