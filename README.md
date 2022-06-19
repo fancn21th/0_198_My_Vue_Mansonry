@@ -1,10 +1,10 @@
 # Vue Mansonry
 
-Mansonry is an awesome grid layout library for years. It's not hard to encapsulate it in a Vue component.
+[Mansonry](https://masonry.desandro.com/) is an awesome grid layout library for years. It's not hard to encapsulate it in a Vue component.
 
 That's what I'm doing here. Just for demo purposes. Not intend to publish it in npm yet.
 
-Besides I want to use it along with vuetify. That's why vuetify is introduced.
+Besides I want to use it along with [vuetify](https://vuetifyjs.com/). That's why vuetify is introduced.
 
 ## Project setup
 ```
